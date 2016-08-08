@@ -1,0 +1,10 @@
+
+after
+
+bundle: plugins installed via vundle
+
+colors: color scheme
+
+ftplugin: file type plugin
+
+syntax:	specific language syntax highlight
